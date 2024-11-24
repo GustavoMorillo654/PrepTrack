@@ -1,9 +1,9 @@
 Lunes-Juan Diego P.-Matematica I-8:00-10:00
-Lunes-Maria B.-Matematica I-10:00-12:00
+Lunes-Victoria B.-Matematica I-10:00-12:00
 Martes-Javier C.-Matematica I-8:00-10:00
 Martes-Hernaldo G.-Fisica I-10:00-12:00
 Miercoles-Gustavo M.-Matematica I-8:00-10:00
-Sabado-Grecia S.-Matematica I-00:00-12:00
+Domingo-Grecia S.-Matematica I-14:00-16:00
 Jueves-Fabian R.-Matematica I-8:00-10:00
 Jueves-Samuel Luiz-Matematica I-10:00-12:00
 Viernes-Guillermo Z.-Matematica I-8:00-10:00
